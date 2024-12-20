@@ -32,6 +32,11 @@ PoetMeter is a Visual Studio Code extension designed for counting syllables in l
    - Click the three-dot menu in the top right corner and select "Install from VSIX."
    - Choose the `.vsix` file from the `poetmeter` directory.
 
+---
+<img src="demo.png" alt="PoetMeter by Mikhail Barinov - DEMO" width=100% align=center >
+
+---
+
 ## Usage
 
 1. Open a text file in Visual Studio Code.
