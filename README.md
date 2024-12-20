@@ -1,5 +1,5 @@
 # PoetMeter
-
+<img src="icon.png" alt="PoetMeter by Mikhail Barinov - DEMO" width=64 align=right >
 PoetMeter is a Visual Studio Code extension designed for counting syllables in lines of text. This tool is particularly useful for poets, writers, and anyone who works with structured or rhythmic text.
 
 ## Features
@@ -33,7 +33,7 @@ PoetMeter is a Visual Studio Code extension designed for counting syllables in l
    - Choose the `.vsix` file from the `poetmeter` directory.
 
 ---
-<img src="demo.png" alt="PoetMeter by Mikhail Barinov - DEMO" width=100% align=center >
+<img src="demo.png" alt="PoetMeter by Mikhail Barinov - DEMO" width=80% align=center >
 
 ---
 
