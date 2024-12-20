@@ -8,7 +8,7 @@ PoetMeter is a Visual Studio Code extension designed for counting syllables in l
 - Provides real-time updates as you edit your document.
 - Lightweight and easy to use.
 
-# Easy installation fron Visual Studio Marketplace
+## Easy installation fron Visual Studio Marketplace
 
 https://marketplace.visualstudio.com/items?itemName=mbarinovru.poetmeter
 
